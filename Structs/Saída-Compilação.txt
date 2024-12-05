@@ -1,0 +1,6 @@
+﻿A construção começou em 09:46...
+1>------ Compilação iniciada: Projeto: SistemaControleBandas, Configuração: Debug Any CPU ------
+1>Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
+1>SistemaControleBandas -> C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\bin\Debug\net6.0\SistemaControleBandas.dll
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação concluído às 09:46 e levou 00,687 segundos ==========

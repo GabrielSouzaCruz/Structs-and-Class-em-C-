@@ -1,0 +1,14 @@
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\bin\Debug\net6.0\Structs.exe
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\bin\Debug\net6.0\Structs.deps.json
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\bin\Debug\net6.0\Structs.runtimeconfig.json
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\bin\Debug\net6.0\Structs.dll
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\bin\Debug\net6.0\Structs.pdb
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\Structs.AssemblyInfoInputs.cache
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\Structs.AssemblyInfo.cs
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\Structs.csproj.CoreCompileInputs.cache
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\Structs.dll
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\refint\Structs.dll
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\Structs.pdb
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\Structs.genruntimeconfig.cache
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\ref\Structs.dll

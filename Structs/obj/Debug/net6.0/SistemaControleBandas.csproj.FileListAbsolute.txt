@@ -1,0 +1,14 @@
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\bin\Debug\net6.0\SistemaControleBandas.exe
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\bin\Debug\net6.0\SistemaControleBandas.deps.json
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\bin\Debug\net6.0\SistemaControleBandas.runtimeconfig.json
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\bin\Debug\net6.0\SistemaControleBandas.dll
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\bin\Debug\net6.0\SistemaControleBandas.pdb
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\SistemaControleBandas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\SistemaControleBandas.AssemblyInfoInputs.cache
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\SistemaControleBandas.AssemblyInfo.cs
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\SistemaControleBandas.csproj.CoreCompileInputs.cache
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\SistemaControleBandas.dll
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\refint\SistemaControleBandas.dll
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\SistemaControleBandas.pdb
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\SistemaControleBandas.genruntimeconfig.cache
+C:\Users\12989644660\Desktop\Nova pasta\C#\Structs\Structs\obj\Debug\net6.0\ref\SistemaControleBandas.dll
